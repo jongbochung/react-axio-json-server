@@ -1,9 +1,8 @@
-json-server --watch db.json --port 3001
-
-
 ## What is it?
 
 This is a Single Page Application built with axios, json-server.
+![demo](https://raw.githubusercontent.com/jongbochung/react-axio-json-server/master/src/demo/demo.gif)
+
 
 ## Libraries and tools
 * create-react-app
@@ -39,7 +38,7 @@ you need to start both json sever and yarn start.
 
 1. open 2 command prompts.
 2. execute command bellow
-   * json-server --watch db.json --port 3001 (check out more detail [here](https://github.com/typicode/json-server))
+   * json-server --watch db.json --port 3001
 3. execute the below command on the other prompt.
    * yarn start
 ```
