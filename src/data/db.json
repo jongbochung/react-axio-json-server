@@ -1,0 +1,84 @@
+{
+  "players": [
+    {
+      "name": "ANDY MURRAY",
+      "age": "30",
+      "dob": "15.03.1987",
+      "country": "England",
+      "plays": "Right Handed",
+      "twitter": "@andy_murray",
+      "website": "http://www.andymurray.com/",
+      "id": 1
+    },
+    {
+      "name": "ANGELIQUE KERBER",
+      "age": "29",
+      "dob": "18.01.1988",
+      "country": "Germany",
+      "plays": "Left Handed",
+      "twitter": "@AngeliqueKerber",
+      "website": "http://www.angelique-kerber.de/en/",
+      "id": 2
+    },
+    {
+      "name": "RAFAEL NADAL",
+      "age": "31",
+      "dob": "03.06.1986",
+      "country": "Spain",
+      "plays": "Left Handed",
+      "twitter": "@RafaelNadal",
+      "website": "https://rafaelnadal.com/en/",
+      "id": 3
+    },
+    {
+      "name": "MARIN CILIC",
+      "age": "28",
+      "dob": "28.09.1988",
+      "country": "Croatia",
+      "plays": "Right Handed",
+      "twitter": "@cilic_marin",
+      "website": "http://www.marin-cilic.net/en/",
+      "id": 4
+    },
+    {
+      "name": "ROGER FEDERER",
+      "age": "36",
+      "dob": "08.08.1981",
+      "country": "Switzerland",
+      "plays": "Right Handed",
+      "twitter": "@rogerfederer",
+      "website": "http://www.rogerfederer.com/",
+      "id": 5
+    },
+    {
+      "name": "GARBINE MUGURUZA",
+      "age": "23",
+      "dob": "08.10.1993",
+      "country": "Spain",
+      "plays": "Right Handed",
+      "twitter": "@GarbiMuguruza",
+      "website": "https://www.facebook.com/GarbiMuguruza",
+      "id": 6
+    },
+    {
+      "name": "MILOS RAONIC",
+      "age": "26",
+      "dob": "27.12.1990",
+      "country": "Canada",
+      "plays": "Right Handed",
+      "twitter": "@milosraonic",
+      "website": "http://www.milosraonicofficial.com/",
+      "id": 7
+    },
+    {
+      "name": "NICK KYRGIOS",
+      "age": "22",
+      "dob": "27.04.1995",
+      "country": "Australia",
+      "plays": "Right Handed",
+      "twitter": "@NickKyrgios",
+      "website": "http://nickkyrgios.org/",
+      "id": 8
+    }
+  ]
+}
