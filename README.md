@@ -11,12 +11,13 @@ This is a Single Page Application built with axios, json-server.
 * axios
 * json-server
 * lodash
+* react-bootstrap-sweetalert
 
 ## branch
 
-* axios-json-server branch
+* axios-json-server branch : Use json-server as CRUD api server. You can read, crate and delete plyer data with react app.
 
-* axios-json-server-regular-expression branch : to be uploaded.
+* axios-json-server-regular-expression branch : Input values are checked by Regular Expression. Warning pops up with sweet alert.
 
 
 ## installation

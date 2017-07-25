@@ -49,7 +49,7 @@ PlayerList.propTypes = {
 
 PlayerList.defaultProps = {
     players: [],
-    deletePlayer: () => console.warn("deletPLAYER is not defined yet.")
+    deletePlayer: () => console.warn("deletePlayer is not defined yet.")
 };
 
 export default PlayerList;

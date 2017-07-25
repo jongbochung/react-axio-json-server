@@ -7,7 +7,6 @@ class PlayerDetailContainer extends Component {
 
     componentDidMount() {
         let playerId = this.props.match.params.playerId;
-        console.log(this.props.match.params.playerId);
         PlayerApi.getProfile(playerId);
     }
 
